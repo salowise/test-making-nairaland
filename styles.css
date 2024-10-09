@@ -1,0 +1,48 @@
+body{
+    
+}
+#cav{
+    text-align: center;
+    background-color: #F1F5F3;
+    height: 180px;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#cav a{
+    text-decoration: none;
+    color: blue;
+}
+#cav input{
+    width: 400px;
+    border-radius: 15px;
+}
+#cav button{
+    border-radius: 15px;
+    background-color: white;
+}
+#van{
+    background-color: #F1F5F3;
+    height: 200px;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+#van h1{
+    text-align: center;
+    color: darkgreen;
+    background-color: #E2F5DC;
+    border-radius: 10px 10px 0px 0px;
+}
+#van a{
+    text-decoration: none;
+    padding-left: 5px;
+    color: blue;
+}
+#men{
+    background-color: #E2F5DC;
+    height: 40px;
+    padding-top: 10px;
+}
